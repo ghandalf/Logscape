@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:groovy-20210416
 MAINTAINER Logsape <support@logscape.com>
 EXPOSE 8080
 ARG VERSION
