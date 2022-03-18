@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:20.04
 MAINTAINER Logsape <support@logscape.com>
 EXPOSE 8080
 ARG VERSION
